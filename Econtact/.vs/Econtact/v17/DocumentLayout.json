@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BORICK\\source\\repos\\Econtact\\Econtact\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAF5DB-0927-4376-958F-4721DF16615D}|Econtact\\Econtact.csproj|C:\\Users\\BORICK\\source\\repos\\Econtact\\Econtact\\econtact\\econtact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72AAF5DB-0927-4376-958F-4721DF16615D}|Econtact\\Econtact.csproj|solutionrelative:econtact\\econtact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAF5DB-0927-4376-958F-4721DF16615D}|Econtact\\Econtact.csproj|c:\\users\\borick\\source\\repos\\econtact\\econtact\\econtact\\econtactclasses\\contactclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAF5DB-0927-4376-958F-4721DF16615D}|Econtact\\Econtact.csproj|solutionrelative:econtact\\econtactclasses\\contactclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAF5DB-0927-4376-958F-4721DF16615D}|Econtact\\Econtact.csproj|c:\\users\\borick\\source\\repos\\econtact\\econtact\\econtact\\econtact.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAF5DB-0927-4376-958F-4721DF16615D}|Econtact\\Econtact.csproj|solutionrelative:econtact\\econtact.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "contactClass.cs",
+              "DocumentMoniker": "C:\\Users\\BORICK\\source\\repos\\Econtact\\Econtact\\Econtact\\econtactClasses\\contactClass.cs",
+              "RelativeDocumentMoniker": "Econtact\\econtactClasses\\contactClass.cs",
+              "ToolTip": "C:\\Users\\BORICK\\source\\repos\\Econtact\\Econtact\\Econtact\\econtactClasses\\contactClass.cs",
+              "RelativeToolTip": "Econtact\\econtactClasses\\contactClass.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T11:26:14.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Econtact.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\BORICK\\source\\repos\\Econtact\\Econtact\\Econtact\\Econtact.Designer.cs",
+              "RelativeDocumentMoniker": "Econtact\\Econtact.Designer.cs",
+              "ToolTip": "C:\\Users\\BORICK\\source\\repos\\Econtact\\Econtact\\Econtact\\Econtact.Designer.cs",
+              "RelativeToolTip": "Econtact\\Econtact.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T11:15:11.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Econtact.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BORICK\\source\\repos\\Econtact\\Econtact\\Econtact\\Econtact.cs",
+              "RelativeDocumentMoniker": "Econtact\\Econtact.cs",
+              "ToolTip": "C:\\Users\\BORICK\\source\\repos\\Econtact\\Econtact\\Econtact\\Econtact.cs [Design]",
+              "RelativeToolTip": "Econtact\\Econtact.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:30:08.695Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
